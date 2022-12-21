@@ -32,24 +32,3 @@ export default Main
 
 
 
-// function Main() {
-//    let listOfCards = dataCards.map(card => {
-//       return <CardOfProduct datacards={card} />
-//    })
-
-//    let listOfButtons = dataButtons.map(buttons => {
-//       return <Buttons databuttons={buttons} />
-//    })
-
-//    return (
-//       <div>
-//          <h1> Тату машинки</h1>
-//          <Buttons />
-//          <div className="card-wrapper">
-//             {listOfCards}
-//          </div>
-
-//       </div>
-   
-//    )
-// }

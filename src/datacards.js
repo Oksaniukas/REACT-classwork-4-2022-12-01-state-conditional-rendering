@@ -63,7 +63,7 @@ let dataCards = [
       img: './assets/images/image11.png',
       title: 'Cyborg Machines Alter Rotary Axis Cross Sexy Nymph',
       price: '11 000',
-      isLiked: false,
+      isLiked: false, 
    },
    {
       img: './assets/images/image12.png',
